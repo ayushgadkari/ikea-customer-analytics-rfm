@@ -4,8 +4,11 @@
 
 ---
 
-## ⚠️ Disclaimer
-> **IKEA Gifting** is a fictional company name created for this educational portfolio project. It is not affiliated with, endorsed by, or representative of the real IKEA corporation in any way. All financial figures, customer counts, and business metrics shown in this project are derived entirely from a public, anonymized transactional dataset and do not reflect any real company's actual performance. The IKEA visual branding used in the dashboard is for design and storytelling purposes only.
+## ⚠️ Disclaimer & Acknowledgements
+
+* **Educational & Skill Demonstration Purpose:** This repository contains a project built locally from scratch to practice, demonstrate, and showcase hands-on capabilities in SQL, Python (pandas), and Power BI. 
+* **Project Concept & Inspiration:** The initial project framework and business scenario were inspired by an online educational tutorial series by **Mansi Goel** ([YouTube: Mansi G.](https://www.youtube.com/@Mansi.goel.offical)). I independently executed the entire implementation—including data cleaning in SQL, writing Python scripts for RFM segmentation, and designing the Power BI report—to validate my technical skills and master end-to-end data analytics workflows.
+* **Fictional Brand:** **IKEA Gifting** is a fictional brand used solely for design, storytelling, and educational portfolio purposes. It is not affiliated with, endorsed by, or representative of the real IKEA corporation. All metrics are derived from the public, anonymized UCI Online Retail II dataset.
 
 ---
 
