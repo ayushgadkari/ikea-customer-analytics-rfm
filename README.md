@@ -4,11 +4,15 @@
 
 ---
 
-## ⚠️ Disclaimer & Acknowledgements
+⚠️ Disclaimer & Acknowledgements
 
-* **Educational & Skill Demonstration Purpose:** This repository contains a project built locally from scratch to practice, demonstrate, and showcase hands-on capabilities in SQL, Python (pandas), and Power BI. 
-* **Project Concept & Inspiration:** The initial project framework and business scenario were inspired by an online educational tutorial series by **Mansi Goel** ([YouTube: Mansi G.](https://www.youtube.com/@Mansi.goel.offical)). I independently executed the entire implementation—including data cleaning in SQL, writing Python scripts for RFM segmentation, and designing the Power BI report—to validate my technical skills and master end-to-end data analytics workflows.
-* **Fictional Brand:** **IKEA Gifting** is a fictional brand used solely for design, storytelling, and educational portfolio purposes. It is not affiliated with, endorsed by, or representative of the real IKEA corporation. All metrics are derived from the public, anonymized UCI Online Retail II dataset.
+Educational & Skill Demonstration Purpose: This repository contains an end-to-end data analytics project built locally from scratch to practice, demonstrate, and showcase my hands-on capabilities across SQL, Python (pandas), and Power BI.
+
+Project Concept & Inspiration: The original project idea and business framework were inspired by an online tutorial series by Mansi Goel (YouTube: Mansi G.). I independently executed the technical implementation from scratch to validate my skills.
+
+Custom Adaptations & Differences: Please note that this project is not an exact copy of the original tutorial. It includes custom modifications, small logic tweaks, and tailored visual enhancements developed during my own analysis and problem-solving process.
+
+Fictional Brand: IKEA Gifting is a fictional brand used solely for design, storytelling, and educational portfolio purposes. It is not affiliated with, endorsed by, or representative of the real IKEA corporation. All metrics are derived from the public, anonymized UCI Online Retail II dataset.
 
 ---
 
